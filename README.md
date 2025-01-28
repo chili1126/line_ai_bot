@@ -1,3 +1,3 @@
 # A Simple Line Bot with Azure OpenAI
 
-Too simple.
+ここに説明書く
